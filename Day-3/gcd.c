@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int i , n , m , gcd ;
+    int i , n , m , gcd=1;
     printf("Enter the n :");
     scanf("%d", &n);
     printf("Enter the m :");
